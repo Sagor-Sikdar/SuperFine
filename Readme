@@ -1,0 +1,6 @@
+*** Run the following command to give paup the executable permission
+  "chmod +x paup".  
+
+
+*** Run this command : "python ./runSuperFine.py -r rmrp speciesTrees.tre -w tre"... 
+Here, "speciesTrees.tre" is a sample input file where you can get 4 species trees generated from restricted gene trees. Running this command, you'll get two new files ( speciesTrees.scmTree.tre and speciesTrees.SuperFineTree.tre ). I suppose you would need the scmTree for your project. 
